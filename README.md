@@ -56,7 +56,7 @@ To design and implement a **complete database management system** for a real-wor
 1. **Clone or download** this repository:
 2. Open your MySQL client (e.g. MySQL Workbench)
 3. Run the SQL script to create all tables -
- SOURCE gardening-inventory.sql;
+ SOURCE gardening-inventory-db.sql;
 
 ## 🗺 ERD Diagram
 
