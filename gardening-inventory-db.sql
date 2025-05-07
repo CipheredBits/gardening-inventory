@@ -1,5 +1,11 @@
--- Gardening Inventory Management System
+-- Gardening Inventory Management 
+-- Step 1: Create the Database
+CREATE DATABASE gardening_inventory;
 
+-- Step 2: Use the Database
+USE gardening_inventory;
+
+-- Step 3: Create the Tables
 -- Table: Category
 CREATE TABLE Category (
     category_id INT AUTO_INCREMENT PRIMARY KEY,
